@@ -168,7 +168,7 @@ $ dig +short A dns.google
 **Шаг 8.** Проверьте PTR записи для IP-адресов из задания 7. Какое доменное имя привязано к IP? Воспользуйтесь утилитой `dig`.
 ![2023-03-16_22-50-31](https://user-images.githubusercontent.com/123774335/225736951-0c94582f-f366-4545-9a17-d49ca08fdef2.png)
 
-# Ответ: 8.8.8.8.in-addr.arpa.   56540   IN      PTR     dns.google.               4.4.8.8.in-addr.arpa.   37892   IN      PTR     dns.google.
+# Ответ: 8.8.8.8.in-addr.arpa.   56540   IN      PTR     dns.google.                                                                                                                      4.4.8.8.in-addr.arpa.   37892   IN      PTR     dns.google.
 *В качестве ответов на вопросы приложите лог выполнения команд в консоли или скриншот полученных результатов.*
 
 ----
